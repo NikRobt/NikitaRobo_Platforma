@@ -287,6 +287,7 @@ void set_speed_serial()
                 }
                 break;
                 */
+            ////////////////////
             case 4: //лампы
                 // val1 = set_param.check_error_f(&buffer[3]);
 
